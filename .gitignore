@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+Tutorial
+db.sqlite3
+.DB_store
+
