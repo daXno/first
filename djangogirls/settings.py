@@ -25,7 +25,9 @@ SECRET_KEY = 'o(rtspg$@$&av(yu91h$0+tlh#x+%2pxs-)c6+fg2$%=wl@ygz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+	'daxnoman.pythonanywhere.com',
+]
 
 
 # Application definition
